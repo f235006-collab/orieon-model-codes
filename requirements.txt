@@ -1,0 +1,8 @@
+# Versions used for the verified reference run (Python 3.12 recommended).
+numpy==2.2.5
+pandas==2.3.2
+scikit-learn==1.7.2
+statsmodels==0.14.5
+lightgbm==4.6.0
+torch==2.8.0
+matplotlib==3.10.3
